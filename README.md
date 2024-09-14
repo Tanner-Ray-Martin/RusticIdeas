@@ -22,6 +22,7 @@ Feel free to browse existing ideas or add new ones by opening an issue.
 3. **Collaborating on Ideas:**
    - Browse the [Issues](https://github.com/Tanner-Ray-Martin/RusticIdeas/issues) section to explore existing ideas.
    - If an idea resonates with you, contribute by providing feedback, suggestions, or resources.
+   - Inspired? Create your own excercise in [rust-bite-excercises](https://github.com/pybites/rust-bite-exercises) repo!
 
 
 ## **Topics We Encourage**
